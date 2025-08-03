@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+nav {
+  background: #fff;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 15px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
